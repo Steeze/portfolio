@@ -1,0 +1,26 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.title{
+    color: #747704;
+}
+.sub-title{
+    color: #747704;
+}
+hr {
+    border: none;
+    height: 2px;
+    color: #BCBBBB;
+    background-color: #BCBBBB;
+    margin: .5em 0 1em 0;
+    /*margin: <margin-top> || <margin-right> || <margin-bottom> || <margin-left>*/
+}
+h1{
+
+}
+h5{
+    margin: 0;
+}
+.top-buffer {
+    margin-top:20px;
+}
