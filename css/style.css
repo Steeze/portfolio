@@ -1,25 +1,45 @@
-*{
-    font-family: 'Raleway', sans-serif;
+body{
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-width: 300;
 }
 .title{
+    font-size: 40px;
     color: #747704;
 }
 .sub-title{
-    color: #747704;
+    color: #2E2F01;
+    font-size: small;
+    font-weight: bold;
+}
+.project-title{
+    margin: .5em 0 .1em 0;
+    color: #4b4a4a;
+    font-weight: bold;
+}
+.featured-work{
+    color: #BCBBBB;
+    font-size: 1.5em;
+    font-weight: bolder;
+    margin: 1em 0 .3em .5em;
+}
+.title-super{
+    font-width: 100;
+}
+.text-thin{
+    font-width: 100;
 }
 hr {
     border: none;
-    height: 2px;
+    height: .2em;
     color: #BCBBBB;
     background-color: #BCBBBB;
-    margin: .5em 0 1em 0;
+    margin: .5em 0 1.5em 0;
     /*margin: <margin-top> || <margin-right> || <margin-bottom> || <margin-left>*/
 }
-h1{
 
-}
 h5{
-    margin: 0;
+    margin: 0 0 .5em;
 }
 .top-buffer {
     margin-top:20px;
