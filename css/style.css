@@ -13,15 +13,18 @@ body{
     font-weight: bold;
 }
 .project-title{
-    margin: .5em 0 .1em 0;
     color: #4b4a4a;
     font-weight: bold;
+    margin: .5em 0 .1em 0;
 }
 .featured-work{
     color: #BCBBBB;
     font-size: 1.5em;
     font-weight: bolder;
     margin: 1em 0 .3em .5em;
+}
+.featured-work-box{
+   background-color: #e4e3e3;
 }
 .title-super{
     font-width: 100;
